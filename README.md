@@ -1,6 +1,8 @@
 # HorribleLinks
 Scrape magnets from horriblesubs for new additions to any myanime.com list.
 
+Attempts to get the first 5 episodes of new `TV` animes from your [myanimelist](https://myanimelist.net/) accounts page that are flagged as `plan to watch`.  Only attempts to grab a show one time unless you modify the `shows.json` file.
+
 ## Disclaimer
 Torrenting is bad okay?  P2P is the devils work and anyone who invokes said protocol is a sinner and deserves to be piked.
 I don't support you even LOOKING at this code, let alone running it!
