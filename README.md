@@ -10,7 +10,7 @@ I don't support you even LOOKING at this code, let alone running it!
 1. Edit `options.json` to control which myanimelist users list you want to follow.
 2. `npm install`
 3. `node getList.js`
-4. Checkout magFiles directory... Gosh it'd be so neat if some (program)[https://deluge-torrent.org/] had an (auto add)[https://dev.deluge-torrent.org/wiki/Plugins/AutoAdd] plugin that could automatically add those magnet links for download.  It'd just be so neat!
+4. Checkout magFiles directory... Gosh it'd be so neat if some [program](https://deluge-torrent.org/) had an [auto add](https://dev.deluge-torrent.org/wiki/Plugins/AutoAdd) plugin that could automatically add those magnet links for download.  It'd just be so neat!
 
 ## TODO List ( Things to Contribute )
 
